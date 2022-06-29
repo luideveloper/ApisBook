@@ -39,3 +39,7 @@
 - Descrição: Busca as informações de uma taxa a partir do seu nome/sigla
 - Tipos de retorno: json
 
+#### - `Veriphone`
+- Documentação: https://veriphone.io/docs/v2
+- Descrição: A API Veriphone é uma API JSON baseada em REST. Ele fornece um conjunto de endpoints sem estado que qualquer programa ou navegador da Web pode chamar enviando uma solicitação HTTP padrão. A Veriphone responderá com uma resposta HTTP padrão com uma carga útil JSON.
+- Tipos de retorno: json
