@@ -51,3 +51,13 @@
 - Documentação: https://veriphone.io/docs/v2
 - Descrição: A API Veriphone é uma API JSON baseada em REST. Ele fornece um conjunto de endpoints sem estado que qualquer programa ou navegador da Web pode chamar enviando uma solicitação HTTP padrão. A Veriphone responderá com uma resposta HTTP padrão com uma carga útil JSON.
 - Tipos de retorno: json
+
+#### - `Google News Brasil [não oficial]`
+- Documentação: https://newsapi.org/s/google-news-br-api ou https://newsapi.org/docs/get-started
+- Descrição: O principal uso da API de notícias é pesquisar artigos publicados por mais de 80.000 fontes de notícias e blogs. Pense em nós como o Google Notícias com o qual você pode interagir programaticamente! Cobertura jornalística abrangente e atualizada.
+- Tipos de retorno: json
+
+#### - `Notícias de curtas [não oficial]`
+- Documentação: https://github.com/cyberboysumanjay/Inshorts-News-API
+- Descrição: Essa API é capaz de buscar conteúdo de notícias de várias fontes, conforme coletado pelo aplicativo Inshorts.
+- Tipos de retorno: json
