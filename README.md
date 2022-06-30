@@ -1,8 +1,16 @@
 ## Lista de Apis para projetos 🔽
 
-> Todaz as vezes que eu ia desenvolver um projeto novo de estudo envolvendo APIs me surgia as seguintes dúvidas: <i>"Qual API devo consumir nesse projeto?"</i> ou até mesmo: <i>"Será que já existe uma API disponível para essa ideia?"</i> Com isto, criei este repositório como solução para tais objeções. Abaixo se encontra um acervo de links de APIS e uma breve descrição sobre.
+> PT-BR
+>> Todaz as vezes que eu ia desenvolver um projeto novo de estudo envolvendo APIs me surgia as seguintes dúvidas: <i>"Qual API devo consumir nesse projeto?"</i> ou até mesmo: <i>"Será que já existe uma API disponível para essa ideia?"</i> Com isto, criei este repositório como solução para tais objeções. Abaixo se encontra um acervo de links de APIS e uma breve descrição sobre.
+>
+> EN-US
+>> Every time I was going to develop a new API study project, I had the following questions: "What should I consume in this project?" or even: "Is there already an API available for this idea?" With that, I created this solution regarding such objections. Below is a collection of APIS links and a brief description.
+>
+>  ###### <b>Observação:</b> A formatação visual desse arquivo README foi construido com referência no [repositório](https://github.com/iuricode/recursos-gratuitos) do [Iuri Code](https://github.com/iuricode)
 
 ---
+
+<img src="assets/img/banner1.png">
 
 #### - `Viacep`
 - Documentação: https://viacep.com.br
